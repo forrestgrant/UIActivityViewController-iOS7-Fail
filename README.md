@@ -1,5 +1,5 @@
 # RedPotion Bug
-UIActivityViewController crashes the application when `redpotion` is required
+UIActivityViewController crashes on `presentViewController` when `redpotion` is required
 
 Crash: `[UIActivityGroupViewController scale]: unrecognized selector sent to instance`
 
